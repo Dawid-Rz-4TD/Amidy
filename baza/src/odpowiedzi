@@ -1,0 +1,4 @@
+1. Wątek EDT obsługuje wszystkie zdarzenia interfejsu w aplikacjach Swing
+2. actionPerformed jest obsługiwanie przez EDT i jeśli wrzucimy tam długotrwałą akcje to EDT może się zablokować
+3. done()
+4.W wątku roboczym
